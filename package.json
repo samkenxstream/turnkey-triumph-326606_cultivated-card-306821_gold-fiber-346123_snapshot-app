@@ -71,7 +71,7 @@
     "i18n-js": "^3.8.0",
     "jetifier": "^2.0.0",
     "lodash": "^4.17.21",
-    "moment-timezone": "^0.5.33",
+    "moment-timezone": "^0.5.35",
     "number-to-bn": "^1.7.0",
     "numeral": "^2.0.6",
     "path-browserify": "0.0.0",
